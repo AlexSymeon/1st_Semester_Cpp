@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    double x,result;
+    float x,result;
     int y,z;
     
     cout << "Give a float number that has exactly two decimal points from the range [0,10) (i.e. 6.12)" << "\n";
